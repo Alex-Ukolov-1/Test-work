@@ -20,7 +20,6 @@ NATS Streaming provides the following high-level feature set:
 
 ## Installation
 
-```bash
 # Go client
 go get github.com/nats-io/stan.go/
 ```
